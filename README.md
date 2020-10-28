@@ -90,7 +90,7 @@ These javascript files will be created to match the created HTML files. They wil
 
 This folder contains all the files necessary in the log in process such as validating an email and password, or ensuring that a user is in fact logged in
 
-#### isAuthentacted.js
+#### isAuthenticted.js
 
 This is middlware file responsible for directing the user to the landing page when not logged in. If the user is logged in as a registered user, it will allow the user to continue to request to the restricted route.
 
